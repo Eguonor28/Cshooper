@@ -130,7 +130,6 @@ li {
       width: 40px;
     }
     .masco_logo_container p {
-      font-family: "Truculenta", sans-serif;
       font-size: 30px;
     }
     .main h1 {
@@ -139,6 +138,9 @@ li {
     }
     .primary_btn {
       display: none;
+    }
+    .main_products {
+      justify-content: center;
     }
   }
 }
