@@ -141,6 +141,7 @@ li {
     }
     .main_products {
       justify-content: center;
+      margin: 0 auto;
     }
   }
 }
