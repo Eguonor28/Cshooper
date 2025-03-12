@@ -103,6 +103,10 @@ img {
   object-fit: cover;
   border-radius: 10px;
 }
+.image_container:hover {
+  padding: 10px;
+  transition: 0.3s;
+}
 .footer {
   background-color: grey;
   padding: 20px;
@@ -142,6 +146,9 @@ li {
     .main_products {
       justify-content: center;
       margin: 0 auto;
+    }
+    .image_container {
+      width: 300px;
     }
   }
 }
